@@ -1,0 +1,50 @@
+/* Geral */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Poppins;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Cabeçalho */
+
+.contact {
+    background-color: #314759;
+    padding: 5px;
+}
+
+.contact p {
+    display: inline-flex;
+    font-family: poppins;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 60px;
+    padding-bottom: 0.5px;
+}
+
+.contact i {
+    padding-right: 5px;
+}
+
+/* Navbar */
+
+.banner {
+    background-color: #010326;
+    width: 100%;
+    height: 300px;
+}
+
+.logo {
+    width: 400px;
+    height: 300px;
+    padding-left: 100px;
+}
